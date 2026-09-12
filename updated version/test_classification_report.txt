@@ -1,0 +1,13 @@
+Test Loss: 0.0413
+Test Accuracy: 0.9594
+
+                  precision    recall  f1-score   support
+
+   Class 0 (CNV)       0.97      0.97      0.97      3746
+   Class 1 (DME)       0.93      0.94      0.93      1161
+Class 2 (DRUSEN)       0.84      0.83      0.84       887
+Class 3 (NORMAL)       0.98      0.98      0.98      5139
+
+        accuracy                           0.96     10933
+       macro avg       0.93      0.93      0.93     10933
+    weighted avg       0.96      0.96      0.96     10933
